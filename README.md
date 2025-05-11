@@ -85,8 +85,8 @@ This is a pre-release version with the following status:
 sudo apt install cmake libopenmpi-dev
 
 # Clone repository
-git clone https://github.com/tsotchke/quantum_geometric_learning.git
-cd quantum_geometric_learning
+git clone https://github.com/QQQuantuMMM/geometric_tensor.git
+cd geometric_tensor
 
 # Build system setup (compilation not yet complete)
 mkdir build && cd build
@@ -366,10 +366,10 @@ We welcome contributions to help complete the implementation:
 
 ```bibtex
 @article{QuantumGeometricTensorLibrary,
-  author  = {tsotchke},
+  author  = {QQQuantuMMM},
   title   = {Quantum Geometric Tensor Library},
   year    = {2025},
-  url = {https://github.com/tsotchke/quantum_geometric_tensor}
+  url = {https://github.com/QQQuantuMMM/quantum_geometric_tensor}
 }
 ```
 ## Support
